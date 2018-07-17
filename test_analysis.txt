@@ -1,3 +1,4 @@
 x=seq(1,5,len=1)
 y=40*2+rnorm(5,0,1)
-plot(x,y)
+z = 5*3+rnorm(5,0,1)
+plot(x,z)
